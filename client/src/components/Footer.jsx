@@ -1,4 +1,4 @@
-import logo from "../assets/tornadoLogo.jpg";
+import logo from "../assets/tornadoLogo.png";
 import { FaFacebook } from "react-icons/fa";
 
 function Footer() {
@@ -19,13 +19,13 @@ function Footer() {
               </a>
             </li>
             <li>
-              <a href="/about" className="hover:underline me-4 md:me-6">
-                About
+              <a href="/services" className="hover:underline me-4 md:me-6">
+                Services
               </a>
             </li>
             <li>
-              <a href="#" className="hover:underline me-4 md:me-6">
-                Licensing
+              <a href="/about" className="hover:underline me-4 md:me-6">
+                About
               </a>
             </li>
             <li>

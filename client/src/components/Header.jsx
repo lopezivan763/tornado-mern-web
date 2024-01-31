@@ -1,6 +1,6 @@
 import { Disclosure } from "@headlessui/react";
 import { Bars3Icon, PhoneIcon, XMarkIcon } from "@heroicons/react/24/outline";
-import logo from "../assets/tornadoLogo.jpg";
+import logo from "../assets/tornadoLogo.png";
 
 const navigation = [
   { name: "Home", href: "/", current: true },

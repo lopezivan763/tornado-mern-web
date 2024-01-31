@@ -17,7 +17,7 @@ function ContactForm() {
             further.
           </strong>
         </div>
-        <form action="" method="POST" encType="multipart/form-data">
+        <form action="https://getform.io/f/65f1d442-6a0d-468e-8e20-97223d1949a8" method="POST" encType="multipart/form-data">
           <div className="grid grid-cols-2 gap-4 py-2">
             <div className="flex flex-col">
               <input
